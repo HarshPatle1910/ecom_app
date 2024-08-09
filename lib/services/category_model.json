@@ -1,0 +1,79 @@
+{
+  "categories": [
+    {
+      "name": "Women Clothing",
+      "subcategories": [
+        "Sarees",
+        "Froks",
+        "Beauty Products"
+      ]
+    },
+    {
+      "name": "Men Clothing Fashion",
+      "subcategories": [
+        "Jeans",
+        "Joggers",
+        "Formals"
+      ]
+    },
+    {
+      "name": "Computer & Accessories",
+      "subcategories": [
+        "Laptops",
+        "Laptop Bag",
+        "Official Equipment"
+      ]
+    },
+    {
+      "name": "Automobile",
+      "subcategories": [
+        "Cars",
+        "Bikes"
+      ]
+    },
+    {
+      "name": "Kid & Toys",
+      "subcategories": [
+        "Baby clothing",
+        "Cricket kit",
+        "Board games",
+        "Remote-controls"
+      ]
+    },
+    {
+      "name": "Sports",
+      "subcategories": [
+        "Cricket kit",
+        "Gaurds",
+        "Shorts",
+        "Sport dress"
+      ]
+    },
+    {
+      "name": "Jwellery",
+      "subcategories": [
+        "Lipstick",
+        "Neckless",
+        "MakeUp kit"
+      ]
+    },
+    {
+      "name": "Cellphone & Tab",
+      "subcategories": [
+        "Keypads",
+        "Chargers",
+        "Android"
+      ]
+    },
+    {
+      "name": "Furniture",
+      "subcategories": [
+        "Sofa",
+        "Tabel Clothes",
+        "Bed",
+        "Gas"
+      ]
+    }
+
+  ]
+}
